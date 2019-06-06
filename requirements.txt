@@ -1,5 +1,5 @@
-numpy>=1.13
-pyyaml>=3.12
+numpy>=1.16
+pyyaml==3.12
 matplotlib
 opencv-python>=3.2
 setuptools
@@ -8,3 +8,5 @@ mock
 scipy
 h5py
 memory_profiler
+imutils
+pandas
